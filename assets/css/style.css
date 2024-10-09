@@ -30,7 +30,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "spirits-soft";
 }
 
 /*--------------------------------------------------------------
@@ -97,7 +97,7 @@ h6 {
   font-weight: 600;
   -moz-text-align-last: center;
   text-align-last: center;
-  font-family: "Poppins", sans-serif;
+  font-family: "spirits-soft";
 }
 
 #header .profile h1 a,
@@ -274,7 +274,7 @@ h6 {
   color: #fff;
   margin-bottom: 50px;
   font-size: 26px;
-  font-family: "Poppins", sans-serif;
+  font-family: "spirits-soft";
 }
 
 #hero p span {
@@ -410,7 +410,7 @@ section {
 .facts .count-box p {
   padding: 15px 0 0 0;
   margin: 0 0 0 60px;
-  font-family: "Raleway", sans-serif;
+  font-family: "spirits-soft";
   font-size: 14px;
   color: #122f57;
 }
@@ -421,7 +421,7 @@ section {
   margin-top: 20px;
   color: #122f57;
   font-size: 15px;
-  font-family: "Poppins", sans-serif;
+  font-family: "spirits-soft";
   transition: ease-in-out 0.3s;
 }
 
@@ -484,12 +484,18 @@ section {
   position: relative;
 }
 
+.customise_icon{
+  width: 50px; /* Adjust the width */
+
+  display: inline-block;
+}
+
 .resume .resume-item h4 {
   line-height: 18px;
   font-size: 18px;
   font-weight: 600;
   text-transform: uppercase;
-  font-family: "Poppins", sans-serif;
+  font-family: "spirits-soft";
   color: #050d18;
   margin-bottom: 10px;
 }
